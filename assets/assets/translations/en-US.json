@@ -55,7 +55,7 @@
   "NoTask": "There is no task for this date",
   "NoHistory": "You have no chat yet",
 
-  "Prompts": "Prompts",
+  "Prompts": "Special Assistants",
   "Chart": "Chart",
   "هفته": "Week",
   "ماه": "Month",
@@ -81,5 +81,17 @@
   "add": "add",
   "add_desc": "You can add users by their number. If they have registered before they will be added automatically otherwise a new user is gonna be created.",
   "Enter_phone": "enter a phone",
-  "balance": "balance : "
+  "balance": "balance : ",
+  "add_task": "Add Task",
+  "open_site": "Open website",
+  "Name": "Your Full name",
+  "Please enter your phone Name": "Please enter your phone Name",
+  "Profile": "Edit Profile",
+  "Save": "Save",
+  "Company": "Company",
+  "Profession": "Profession",
+  "Field": "Field",
+  "Change photo": "Change photo",
+  "ManageNetwork": "Manage Network",
+  "AddUser": "Add User"
 }
