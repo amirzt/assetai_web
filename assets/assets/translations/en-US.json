@@ -79,7 +79,7 @@
   "NoUser": "You have no users",
   "add_user": "Add new User",
   "add": "add",
-  "add_desc": "You can add users by their number. If they have registered before they will be added automatically otherwise a new user is gonna be created.",
+  "add_desc": "You can add users by their number. If they have registered before they will be added automatically.",
   "Enter_phone": "enter a phone",
   "balance": "balance : ",
   "add_task": "Add Task",
